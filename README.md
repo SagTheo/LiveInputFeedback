@@ -1,0 +1,1 @@
+Creating a live input feedback : user enters email, if valid, animation on the input field is triggered
